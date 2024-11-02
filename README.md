@@ -1,7 +1,6 @@
 # SLWCry - Şifreleme ve Şifre Çözme Sistemi
 
-SLWCry, kullanıcıların metinleri güvenli bir şekilde şifreleyip çözmelerini sağlayan bir PHP tabanlı şifreleme sistemidir. Sistem, AES-256 ve RSA şifreleme algoritmalarını kullanarak çok katmanlı bir güvenlik sağlar. Bu projede, Bootstrap kullanılarak basit ve kullanıcı dostu bir arayüz oluşturulmuştur.
-
+SLWCry, kullanıcıların metinleri güvenli bir şekilde şifreleyip çözmelerini sağlayan bir PHP tabanlı şifreleme sistemidir. Sistem, AES-256 ve RSA şifreleme algoritmalarını kullanarak çok katmanlı bir güvenlik sağlar. 
 ## Özellikler
 
 - **AES-256 ve RSA Şifreleme:** Sistem, iki aşamalı AES-256 şifreleme ile RSA şifreleme kombinasyonu kullanır.
